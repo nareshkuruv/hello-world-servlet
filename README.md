@@ -32,3 +32,4 @@ webhook test
 31/10/2022 ---> Today is Monday and time is 9.10am
 1/11/2022
 01/12/2022 ---> thursday
+02/12/2022 ---> friday is the last working day in the week
